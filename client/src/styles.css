@@ -1,0 +1,58 @@
+.cohort-list-entry {
+  border-width: 3px;
+  border-color: black;
+  text-align: center;
+}
+
+.cohort-list-title {
+  margin-bottom: 10px;
+}
+
+.engineer-email {
+  text-align: center;
+}
+
+.engineer-name {
+  text-align: center;
+}
+
+.engineer-photo {
+  display: inline-block;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 175px);
+}
+
+.grid-top {
+  display: grid;
+  grid-template-columns: 2fr 1fr ;
+}
+
+.center {
+  position: relative;
+  top: 75px;
+  display: block;
+  width: 875px;
+  margin: 0 auto;
+}
+
+.cohort-list-title {
+  text-align: center;
+}
+
+.calendar {
+  top: 100px
+}
+
+.pairs-list {
+  position: relative;
+  height: 500px;
+  width: 100%;
+}
+
+.app-div {
+  position: relative;
+  top: 30
+}
