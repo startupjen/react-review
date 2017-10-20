@@ -22,6 +22,7 @@ export default class RandomPairsList extends Component {
     this.spamCalendars()
   }
 
+  // this function will not fully work because you need access tokens on the 'url' variable
   spamCalendars() {
     const { calendarEvent, timeSlots, url } = require('../seed/calendar')
     

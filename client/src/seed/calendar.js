@@ -1,5 +1,6 @@
-// Authorized link to make POST event creation with
-const url = "https://www.googleapis.com/calendar/v3/calendars/jen.tran@hackreactor.com/events?access_token=ya29.GlzpBG_yfH4qMdBwPpPOp0CaNH-zcXerVZiXGxQZZ658xIes5Z7KJXXyUeb74X05WSWV5pEmPD6n0h3R8mXPIF3m-evyUtVgyzZvl7_lhIZMNGqPz3h1BWAKc9yi7g"
+// Authorized link to make POST event creation with, to authorize, follow these directions: https://developers.google.com/google-apps/calendar/auth
+console.log('CALENDAR.JS - you need to grab an access token from Google, and insert your own calendar ID :) Go to this file for more info')
+const url = "https://www.googleapis.com/calendar/v3/calendars/INSERT_YOUR_OWN_CALENDAR_ID_HERE/events?access_token=GET_YOUR_OWN_ACCESS_TOKEN_K_THX_BYE-JEN"
 
 
 
